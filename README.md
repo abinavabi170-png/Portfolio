@@ -1,7 +1,8 @@
 
-  # Personal Portfolio Website Design
+  # Personal Portfolio Website Design Abinav
+  
 
-  This is a code bundle for Personal Portfolio Website Design. The original project is available at https://www.figma.com/design/GhoxwnNWexsEhtxJd015eI/Personal-Portfolio-Website-Design.
+  This is a code bundle for Personal Portfolio Website Design.
 
   ## Running the code
 
